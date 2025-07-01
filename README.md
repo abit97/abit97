@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abit97
+- 👋 Hi, I’m github user
 - 👀 I’m interested in crypto currency
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
